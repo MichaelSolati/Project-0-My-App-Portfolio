@@ -25,7 +25,7 @@
                 android:layout_height="wrap_content"
                 android:text="Popular Movies"
                 android:id="@+id/popularMovies"
-                android:onClick="buttonClicked"
+                android:onClick="launchPopularMovies"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:background="@color/darkGrey"
